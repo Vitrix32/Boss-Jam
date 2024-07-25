@@ -1,0 +1,4 @@
+repository "Boss Jam@Vitrix32@cloud"
+  path "/"
+    br "/main"
+    co "/main"
